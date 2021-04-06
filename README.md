@@ -1,4 +1,4 @@
-### Hi 👋,  🚀 Welcome to [Rubik Cell Space](https://ash-z01.github.io) !! 🚀
+### Hi 👋,   Welcome to [Rubik Cell Space](https://ash-z01.github.io) !! 🚀
 
 <!--
 **ash-z01/ash-z01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
