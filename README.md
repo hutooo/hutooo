@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Rubik's github stats](https://github.com/ash-z01)]
 ---------------------------------------------------------
-
 
 ### About
 
