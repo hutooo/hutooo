@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### Languages and Tools
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></code>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg"></code>
