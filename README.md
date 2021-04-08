@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------
 
+![RubikCell Banner](https://github.com/ash-z01/ash-z01.github.io/blob/master/images/chino111.png)
+
 ### About
 
 -  **Learning :** Development :zap: | Open-Source :fire:    
@@ -58,11 +60,8 @@ Here are some ideas to get you started:
 <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
----
-⭐️ From [Rubik](https://github.com/ash-z01)
 
 
-![RubikCell Banner](https://github.com/ash-z01/ash-z01.github.io/blob/master/images/chino111.png)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -91,7 +90,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ash-z01&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
@@ -106,4 +105,5 @@ Here are some ideas to get you started:
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+---
+⭐️ From [Rubik](https://github.com/ash-z01)
