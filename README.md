@@ -1,3 +1,11 @@
+---
+title: AVS1508
+date: 2020-23-08
+spoiler: Short and Sweet Readme Template
+categories: ["short-and-sweet", "all-profile"]
+githubUsername: "ash-z01"
+---
+
 ### Hi 👋,   Welcome to [Rubik Cell Space](https://ash-z01.github.io) !! 🚀
 
 <!--
@@ -59,15 +67,6 @@ Here are some ideas to get you started:
 ---
 ⭐️ From [Rubik](https://github.com/ash-z01)
 
-
-
----
-title: AVS1508
-date: 2020-23-08
-spoiler: Short and Sweet Readme Template
-categories: ["short-and-sweet", "all-profile"]
-githubUsername: "AVS1508"
----
 
 ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
