@@ -1,11 +1,3 @@
----
-title: AVS1508
-date: 2020-23-08
-spoiler: Short and Sweet Readme Template
-categories: ["short-and-sweet", "all-profile"]
-githubUsername: "ash-z01"
----
-
 ### Hi 👋,   Welcome to [Rubik Cell Space](https://ash-z01.github.io) !! 🚀
 
 <!--
@@ -47,7 +39,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
-
+<!--
 <code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-icon.svg"></code>
@@ -60,6 +52,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/matrix/matrix-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+-->
 
 <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
