@@ -70,19 +70,19 @@ Here are some ideas to get you started:
 <p align="center">
 
 <a href="https://github.com/ash-z01">
-<img src="https://img.shields.io/badge/-GitHub?style=flat-square&color=black&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-GitHub-3423A6?style=flat-square&color=black&logo=GitHub&logoColor=white"/></a>
 
 <a href="1445684859">
-<img src="https://img.shields.io/badge/-1445684859-0077B5?style=flat-square&logo=Tencent-QQ&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-@1445684859-0077B5?style=flat-square&logo=Tencent-QQ&logoColor=white"/></a>
 
 <a href="ash-z01@qq.com">
-<img src="https://img.shields.io/badge/-ashz01@qq.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-ash%20z01@qq.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <a href="E-Meow">
-<img src="https://img.shields.io/badge/-@EMeow-E4405F?style=flat-square&logo=Nintendo-Switch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-@E%20Meow-E4405F?style=flat-square&logo=Nintendo-Switch&logoColor=white"/></a>
 
 <a href="XYZ-Meow">
-<img src="https://img.shields.io/badge/-@XYZMeow-1877F2?style=flat-square&logo=Wechat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-@XYZ%20Meow-1877F2?style=flat-square&logo=Wechat&logoColor=white"/></a>
 
 <a href="https://space.bilibili.com/123004091/">
 <img src="https://img.shields.io/badge/-@Rubik-1769FF?style=flat-square&logo=Bilibili&logoColor=white"/></a>
