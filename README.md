@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ash-z01&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide=stars" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ash-z01&layout=compact&hide=html,css&theme=vue-dark" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ash-z01&layout=compact&hide=html,css&theme=onedark" />
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
