@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-![Custom badge](https://img.shields.io/endpoint?color=blue&label=Rubik&logo=Chrome&logoColor=yellow&style=flat-square)
+![Custom badge](https://img.shields.io/endpoint?style=flat-square&logo=appveyor&logoColor=yellow)
 
 
 
