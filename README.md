@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <p align="center">
 
 <a href="https://github.com/ash-z01">
-<img src="https://img.shields.io/badge/GitHub?style=flat-square&color=black&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-GitHub?style=flat-square&color=black&logo=GitHub&logoColor=white"/></a>
 
 <a href="1445684859">
 <img src="https://img.shields.io/badge/-1445684859-0077B5?style=flat-square&logo=Tencent-QQ&logoColor=white"/></a>
