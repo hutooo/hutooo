@@ -52,9 +52,11 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
+<!--
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 ![Appveyor](https://img.shields.io/badge/-Appveyor-333333?style=flat-square&logo=appveyor&logoColor=yellow)
+-->
 
 
 ### ⚙️ &nbsp; GitHub Analytics
