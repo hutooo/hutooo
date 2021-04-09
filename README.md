@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-@E%20Meow-E4405F?style=flat-square&logo=Nintendo-Switch&logoColor=white"/></a>
 
 <a href="XYZ-Meow">
-<img src="https://img.shields.io/badge/-@XYZ&ndashMeow-1877F2?style=flat-square&&color=greenlogo=Wechat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-@XYZ&ndash;Meow-1877F2?style=flat-square&&color=greenlogo=Wechat&logoColor=white"/></a>
 
 <a href="https://space.bilibili.com/123004091/">
 <img src="https://img.shields.io/badge/-@Rubik-1769FF?style=flat-square&logo=Bilibili&logoColor=white"/></a>
