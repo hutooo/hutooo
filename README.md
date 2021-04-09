@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------
 
-![RubikCell Banner](https://github.com/ash-z01/ash-z01.github.io/blob/master/images/chino111.png)
+<!--   ![RubikCell Banner](https://github.com/ash-z01/ash-z01.github.io/blob/master/images/chino111.png)  -->
+![RubikCell Banner](https://github.com/ash-z01/ash-z01/blob/main/assets/even01.jpg)
 
 
 ### 👨🏻‍💻 &nbsp;About Me
