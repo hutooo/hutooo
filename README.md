@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 
+<p align="center">
 <code><img height="30" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-ar21.svg"></code>
@@ -57,6 +58,7 @@ Here are some ideas to get you started:
 ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 ![Appveyor](https://img.shields.io/badge/-Appveyor-333333?style=flat-square&logo=appveyor&logoColor=yellow)
 -->
+</p>
 
 
 ### ⚙️ &nbsp; GitHub Analytics
