@@ -62,13 +62,10 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp; GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ash-z01">
-
 <!-- 
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ash-z01&layout=compact&exclude_lang=html+css&theme=vue-dark" />
-</a>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ash-z01&layout=compact&exclude_lang=html+css&theme=vue-dark" />
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
