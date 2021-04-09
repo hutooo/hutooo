@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 * 🌱 &nbsp; I'm constantly learning about Computer Science, Mathematics, Complexity Science, Painting, and making a better cup of coffee.
 
-* ✉️ &nbsp;You can shoot me an email at ash-z@qq.com . I'll try to respond as soon as I can.
+* ✉️ &nbsp;You can shoot me an email at ash-z01@qq.com . I'll try to respond as soon as I can.
 
 
 ### 🛠 &nbsp;Tech Stack
