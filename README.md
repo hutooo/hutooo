@@ -56,11 +56,10 @@ Here are some ideas to get you started:
 ![Appveyor](https://img.shields.io/badge/-Appveyor-333333?style=flat-square&logo=appveyor&logoColor=yellow)
 
 
-
 ### ⚙️ &nbsp; GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/ash-z01">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ash-z01&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
@@ -70,29 +69,25 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="">
-<img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://github.com/ash-z01">
+<img src="https://img.shields.io/badge/-GitHub-3423A6?style=flat-square&logo=github&logoColor=white"/></a>
 
-<a href="">
-<img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="1445684859">
+<img src="https://img.shields.io/badge/-1445684859-0077B5?style=flat-square&logo=tencentqq&logoColor=white"/></a>
 
-<a href="">
-<img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="ash-z01@qq.com">
+<img src="https://img.shields.io/badge/-ash-z01@qq.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-<a href="">
-<img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="E-Meow">
+<img src="https://img.shields.io/badge/-@E-Meow-E4405F?style=flat-square&logo=nintendoswitch&logoColor=white"/></a>
 
-<a href="">
-<img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-
-<a href="">
-<img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
+<a href="XYZ-Meow">
+<img src="https://img.shields.io/badge/-@XYZ-Meow-1877F2?style=flat-square&logo=wechat&logoColor=white"/></a>
 
 <a href="https://space.bilibili.com/123004091/">
 <img src="https://img.shields.io/badge/-@Rubik-1769FF?style=flat-square&logo=bilibili&logoColor=white"/></a>
 
 </p>
-
 
 <em>
     <b>I like to meet interesting friends.</b>
