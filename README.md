@@ -88,6 +88,9 @@ Here are some ideas to get you started:
 <a href="https://www.behance.net/AVS1508">
 <img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
 
+<a href="https://space.bilibili.com/123004091/">
+<img src="https://img.shields.io/badge/?style=flat-square&logo=bilibili&logoColor=white"/></a>
+
 </p>
 
 
