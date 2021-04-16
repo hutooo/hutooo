@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![RubikCell Banner](https://github.com/ash-z01/ash-z01/blob/main/assets/Kurosawa_Ruby_Holding_SICP.jpg)
 -->
 
-![RubikCell Banner](https://github.com/ash-z01/ash-z01/blob/main/assets/celeste01.jpg)
+![RubikCell Banner](https://github.com/ash-z01/ash-z01/blob/main/assets/celeste00.jpg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
