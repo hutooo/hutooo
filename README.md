@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 
-<p align="center">
+<p align="left">
 <code><img height="30" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-ar21.svg"></code>
