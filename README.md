@@ -43,16 +43,16 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack
 
 <p align="left">
-<code><img height="30" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <!--
 <code><img height="30" src="https://www.vectorlogo.zone/logos/matrix/matrix-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
