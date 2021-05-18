@@ -49,10 +49,14 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/firefox/firefox-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+
+
 <!--
 <code><img height="30" src="https://www.vectorlogo.zone/logos/matrix/matrix-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
