@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 ![RubikCell Banner](https://github.com/ash-z01/ash-z01/blob/main/assets/Kurosawa_Ruby_Holding_SICP.jpg)
 -->
 
-![RubikCell Banner](https://github.com/ash-z01/ash-z01/blob/main/assets/chino00.png)
+<!-- ![RubikCell Banner](https://github.com/ash-z01/ash-z01/blob/main/assets/chino00.png) -->
+![Banner](assets/klee.jpg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -40,7 +41,8 @@ Here are some ideas to get you started:
 * ✉️ &nbsp;You can shoot me an email at ash-z01@qq.com . I'll try to respond as soon as I can.
 
 
-### 🛠 &nbsp;Tech Stack
+### 🎨 &nbsp; Mixed~
+<!-- ### 🛠😜 &nbsp; I use it~ -->
 
 <p align="left">
 <code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
@@ -71,7 +73,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ash-z01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars" />
+<!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ash-z01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs" /> -->
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ash-z01&layout=compact&hide=html,css&theme=onedark" />
 
