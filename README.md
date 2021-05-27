@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![RubikCell Banner](https://github.com/ash-z01/ash-z01/blob/main/assets/chino00.png) -->
-![Banner](assets/klee.jpg)
+![Banner](assets/banner_dark.webp)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
