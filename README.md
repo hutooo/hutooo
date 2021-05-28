@@ -1,4 +1,4 @@
-### Hi 👋~~    Welcome to [Rubik Cell Cafe](https://ash-z01.github.io) !! 🚀
+### Hi 👋~~    Welcome to [Rubik Cell Space](https://ash-z01.github.io) !! 🚀
 
 <!--
 **ash-z01/ash-z01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![RubikCell Banner](https://github.com/ash-z01/ash-z01/blob/main/assets/chino00.png) -->
-![Banner](assets/banner_dark.webp)
+![Banner](assets/imgs/banner_dark.webp)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
