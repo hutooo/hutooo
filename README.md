@@ -45,43 +45,43 @@ Here are some ideas to get you started:
 <!-- ### 🛠😜 &nbsp; I use it~ -->
 
 <p align="center">
-<img height="30" src="assets/svg/firefox.svg">
+<code><img height="50" src="assets/svg/firefox.svg"></code>
 &nbsp;
-<img height="30" src="assets/svg/lisp.svg">
+<code><img height="50" src="assets/svg/lisp.svg"></code>
 &nbsp;
-<img height="30" src="assets/svg/haskell.svg">
+<code><img height="50" src="assets/svg/haskell.svg"></code>
 &nbsp;
-<img height="30" src="assets/svg/rust.svg">
+<code><img height="50" src="assets/svg/rust.svg"></code>
 &nbsp;
-<img height="30" src="assets/svg/ruby.svg">
+<code><img height="50" src="assets/svg/ruby.svg"></code>
 &nbsp;
-<img height="30" src="assets/svg/lua.svg">
+<code><img height="50" src="assets/svg/lua.svg"></code>
 &nbsp;
-<img height="30" src="assets/svg/javascript.svg">
+<code><img height="50" src="assets/svg/javascript.svg"></code>
 &nbsp;
-<img height="30" src="assets/svg/bitcoin.svg">
+<code><img height="50" src="assets/svg/bitcoin.svg"></code>
 &nbsp;
-<img height="30" src="assets/svg/linux.svg">
+<code><img height="50" src="assets/svg/linux.svg"></code>
 &nbsp;
-<img height="30" src="assets/svg/math.svg">
+<code><img height="50" src="assets/svg/math.svg"></code>
 &nbsp;
-<img height="30" src="assets/svg/github.svg">
+<code><img height="50" src="assets/svg/github.svg"></code>
 &nbsp;
-<img height="30" src="assets/svg/neovim.svg">
+<code><img height="50" src="assets/svg/neovim.svg"></code>
 </p>
 
 ### 🍻 &nbsp; Social
 
 <p align="center">
-<img height="30" src="assets/svg/ns.svg">
+<code><img height="50" src="assets/svg/ns.svg"></code>
 &nbsp;
-<img height="30" src="assets/svg/ps4.svg">
+<code><img height="50" src="assets/svg/ps4.svg"></code>
 &nbsp;
-<img height="30" src="assets/svg/bilibili.svg">
+<code><img height="50" src="assets/svg/bilibili.svg"></code>
 &nbsp;
-<img height="30" src="assets/svg/qq.svg">
+<code><img height="50" src="assets/svg/qq.svg"></code>
 &nbsp;
-<img height="30" src="assets/svg/wechat.svg">
+<code><img height="50" src="assets/svg/wechat.svg"></code>
 </p>
 
 ### ⚙️ &nbsp; GitHub Analytics
