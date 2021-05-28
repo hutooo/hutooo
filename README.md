@@ -59,15 +59,24 @@ Here are some ideas to get you started:
 &nbsp;
 <code><img height="50" src="assets/svg/javascript.svg"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/bitcoin.svg"></code>
+<code><img height="50" src="assets/svg/neuralNetwork.svg"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/linux.svg"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/math.svg"></code>
+<code><img height="50" src="assets/svg/neovim.svg"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/github.svg"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/neovim.svg"></code>
+<code><img height="50" src="assets/svg/math.svg"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/painting.svg"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/coffee.svg"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/cat.svg"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/bitcoin.svg"></code>
+&nbsp;
 </p>
 
 ### 🍻 &nbsp; Social
