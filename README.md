@@ -45,7 +45,21 @@ Here are some ideas to get you started:
 <!-- ### 🛠😜 &nbsp; I use it~ -->
 
 <p align="left">
-<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
+
+<code><img height="50" src="assets/svg/firefox.svg"></code>
+<code><img height="50" src="assets/svg/lisp.svg"></code>
+<code><img height="50" src="assets/svg/haskell.svg"></code>
+<code><img height="50" src="assets/svg/rust.svg"></code>
+<code><img height="50" src="assets/svg/ruby.svg"></code>
+<code><img height="50" src="assets/svg/lua.svg"></code>
+<code><img height="50" src="assets/svg/javascript.svg"></code>
+<code><img height="50" src="assets/svg/bitcoin.svg"></code>
+<code><img height="50" src="assets/svg/linux.svg"></code>
+<code><img height="50" src="assets/svg/math.svg"></code>
+<code><img height="50" src="assets/svg/github.svg"></code>
+<code><img height="50" src="assets/svg/neovim.svg"></code>
+
+<!-- <code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
@@ -55,19 +69,18 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-
-
-<!--
-<code><img height="50" src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/matrix/matrix-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-![Appveyor](https://img.shields.io/badge/-Appveyor-333333?style=flat-square&logo=appveyor&logoColor=yellow)
--->
+<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code> -->
 </p>
 
+### 🍻 &nbsp; Social
+
+<p align="center">
+<code><img height="50" src="assets/svg/ns.svg"></code>
+<code><img height="50" src="assets/svg/ps4.svg"></code>
+<code><img height="50" src="assets/svg/bilibili.svg"></code>
+<code><img height="50" src="assets/svg/qq.svg"></code>
+<code><img height="50" src="assets/svg/wechat.svg"></code>
+</p>
 
 ### ⚙️ &nbsp; GitHub Analytics
 
