@@ -44,29 +44,44 @@ Here are some ideas to get you started:
 ### 🎨 &nbsp; Mixed~
 <!-- ### 🛠😜 &nbsp; I use it~ -->
 
-<p align="left">
-<img height="50" src="assets/svg/firefox.svg">
-<img height="50" src="assets/svg/lisp.svg">
-<img height="50" src="assets/svg/haskell.svg">
-<img height="50" src="assets/svg/rust.svg">
-<img height="50" src="assets/svg/ruby.svg">
-<img height="50" src="assets/svg/lua.svg">
-<img height="50" src="assets/svg/javascript.svg">
-<img height="50" src="assets/svg/bitcoin.svg">
-<img height="50" src="assets/svg/linux.svg">
-<img height="50" src="assets/svg/math.svg">
-<img height="50" src="assets/svg/github.svg">
-<img height="50" src="assets/svg/neovim.svg">
+<p align="center">
+<img height="30" src="assets/svg/firefox.svg">
+&nbsp;
+<img height="30" src="assets/svg/lisp.svg">
+&nbsp;
+<img height="30" src="assets/svg/haskell.svg">
+&nbsp;
+<img height="30" src="assets/svg/rust.svg">
+&nbsp;
+<img height="30" src="assets/svg/ruby.svg">
+&nbsp;
+<img height="30" src="assets/svg/lua.svg">
+&nbsp;
+<img height="30" src="assets/svg/javascript.svg">
+&nbsp;
+<img height="30" src="assets/svg/bitcoin.svg">
+&nbsp;
+<img height="30" src="assets/svg/linux.svg">
+&nbsp;
+<img height="30" src="assets/svg/math.svg">
+&nbsp;
+<img height="30" src="assets/svg/github.svg">
+&nbsp;
+<img height="30" src="assets/svg/neovim.svg">
 </p>
 
 ### 🍻 &nbsp; Social
 
 <p align="center">
-<img height="50" src="assets/svg/ns.svg">
-<img height="50" src="assets/svg/ps4.svg">
-<img height="50" src="assets/svg/bilibili.svg">
-<img height="50" src="assets/svg/qq.svg">
-<img height="50" src="assets/svg/wechat.svg">
+<img height="30" src="assets/svg/ns.svg">
+&nbsp;
+<img height="30" src="assets/svg/ps4.svg">
+&nbsp;
+<img height="30" src="assets/svg/bilibili.svg">
+&nbsp;
+<img height="30" src="assets/svg/qq.svg">
+&nbsp;
+<img height="30" src="assets/svg/wechat.svg">
 </p>
 
 ### ⚙️ &nbsp; GitHub Analytics
