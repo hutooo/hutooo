@@ -45,52 +45,52 @@ Here are some ideas to get you started:
 <!-- ### 🛠😜 &nbsp; I use it~ -->
 
 <p align="center">
-<code><img height="50" src="assets/svg/firefox.svg"></code>
+<code><img height="50" src="assets/svg/firefox.svg" alt="firefox"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/lisp.svg"></code>
+<code><img height="50" src="assets/svg/lisp.svg" alt="lisp"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/haskell.svg"></code>
+<code><img height="50" src="assets/svg/haskell.svg" alt="haskell"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/rust.svg"></code>
+<code><img height="50" src="assets/svg/rust.svg" alt="rust"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/ruby.svg"></code>
+<code><img height="50" src="assets/svg/ruby.svg" alt="ruby"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/lua.svg"></code>
+<code><img height="50" src="assets/svg/lua.svg" alt="lua"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/javascript.svg"></code>
+<code><img height="50" src="assets/svg/javascript.svg" alt="js"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/neuralNetwork.svg"></code>
+<code><img height="50" src="assets/svg/neuralNetwork.svg" alt="nn"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/linux.svg"></code>
+<code><img height="50" src="assets/svg/linux.svg" alt="linux"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/neovim.svg"></code>
+<code><img height="50" src="assets/svg/neovim.svg" alt="nvim"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/github.svg"></code>
+<code><img height="50" src="assets/svg/github.svg" alt="github"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/math.svg"></code>
+<code><img height="50" src="assets/svg/math.svg" alt="math"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/painting.svg"></code>
+<code><img height="50" src="assets/svg/painting.svg" alt="painting"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/coffee.svg"></code>
+<code><img height="50" src="assets/svg/coffee.svg" alt="coffee"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/cat.svg"></code>
+<code><img height="50" src="assets/svg/cat.svg" alt="cat"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/bitcoin.svg"></code>
+<code><img height="50" src="assets/svg/bitcoin.svg" alt="bitcoin"></code>
 &nbsp;
 </p>
 
 ### 🍻 &nbsp; Social
 
 <p align="center">
-<code><img height="50" src="assets/svg/ns.svg"></code>
+<code><img height="50" src="assets/svg/ns.svg" alt="ns"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/ps4.svg"></code>
+<code><img height="50" src="assets/svg/ps4.svg" alt="ps"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/bilibili.svg"></code>
+<code><img height="50" src="assets/svg/bilibili.svg" alt="bilibili"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/qq.svg"></code>
+<code><img height="50" src="assets/svg/qq.svg" alt="qq"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/wechat.svg"></code>
+<code><img height="50" src="assets/svg/wechat.svg" alt="wechat"></code>
 </p>
 
 ### ⚙️ &nbsp; GitHub Analytics
