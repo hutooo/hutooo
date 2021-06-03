@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 <p align="center">
 <code><img height="50" src="assets/svg/firefox.svg" alt="firefox"></code>
 &nbsp;
+<code><img height="50" src="assets/svg/scheme.svg"></code>
+&nbsp;
 <code><img height="50" src="assets/svg/lisp.svg" alt="lisp"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/haskell.svg" alt="haskell"></code>
-&nbsp;
-<code><img height="50" src="assets/svg/scheme.svg"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/rust.svg" alt="rust"></code>
 &nbsp;
@@ -71,8 +71,8 @@ Here are some ideas to get you started:
 &nbsp;
 <code><img height="50" src="assets/svg/bitcoin.svg" alt="bitcoin"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/blockchain.svg" alt="bitcoin"></code>
-&nbsp;
+<!-- <code><img height="50" src="assets/svg/blockchain.svg" alt="bitcoin"></code>
+&nbsp; -->
 <code><img height="50" src="assets/svg/cell.svg" alt="bitcoin"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/metacell.svg" alt="bitcoin"></code>
