@@ -53,10 +53,6 @@ Here are some ideas to get you started:
 &nbsp;
 <code><img height="50" src="assets/svg/scheme.svg"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/vim.svg"></code>
-&nbsp;
-<code><img height="50" src="assets/svg/haskell.svg"></code>
-&nbsp;
 <code><img height="50" src="assets/svg/rust.svg" alt="rust"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/ruby.svg" alt="ruby"></code>
@@ -67,21 +63,21 @@ Here are some ideas to get you started:
 &nbsp;
 <code><img height="50" src="assets/svg/neuralNetwork.svg" alt="nn"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/linux.svg" alt="linux"></code>
+<code><img height="50" src="assets/svg/vim.svg"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/neovim.svg" alt="nvim"></code>
+<code><img height="50" src="assets/svg/matrix.svg"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/github.svg" alt="github"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/math.svg" alt="math"></code>
-&nbsp;
-<code><img height="50" src="assets/svg/painting.svg" alt="painting"></code>
-&nbsp;
-<code><img height="50" src="assets/svg/coffee.svg" alt="coffee"></code>
-&nbsp;
-<code><img height="50" src="assets/svg/cat.svg" alt="cat"></code>
-&nbsp;
 <code><img height="50" src="assets/svg/bitcoin.svg" alt="bitcoin"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/blockchain.svg" alt="bitcoin"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/cell.svg" alt="bitcoin"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/metacell.svg" alt="bitcoin"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/linux.svg" alt="linux"></code>
 &nbsp;
 </p>
 
