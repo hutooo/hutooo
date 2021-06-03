@@ -51,6 +51,12 @@ Here are some ideas to get you started:
 &nbsp;
 <code><img height="50" src="assets/svg/haskell.svg" alt="haskell"></code>
 &nbsp;
+<code><img height="50" src="assets/svg/scheme.svg"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/vim.svg"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/haskell.svg"></code>
+&nbsp;
 <code><img height="50" src="assets/svg/rust.svg" alt="rust"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/ruby.svg" alt="ruby"></code>
