@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- ![RubikCell Banner](https://github.com/ash-z01/ash-z01/blob/main/assets/chino00.png) -->
 ![Banner](assets/imgs/touhou-lite.png)
-![Banner](assets/imgs/touhou-mini.png)
+<!-- ![Banner](assets/imgs/touhou-mini.png) -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
