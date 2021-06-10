@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <p align="center">
 <code><img height="50" src="assets/svg/firefox.svg" alt="firefox"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/scheme.svg"></code>
+<code><img height="50" src="assets/svg/scheme.svg" alt="scheme"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/lisp.svg" alt="lisp"></code>
 &nbsp;
@@ -64,19 +64,31 @@ Here are some ideas to get you started:
 &nbsp;
 <code><img height="50" src="assets/svg/neuralNetwork.svg" alt="nn"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/vim.svg"></code>
+<code><img height="50" src="assets/svg/vim.svg" alt="vim"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/matrix.svg"></code>
+<code><img height="50" src="assets/svg/matrix.svg" alt="matrix"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/github.svg" alt="github"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/bitcoin.svg" alt="bitcoin"></code>
 &nbsp;
-<!-- <code><img height="50" src="assets/svg/blockchain.svg" alt="bitcoin"></code>
+<!-- <code><img height="50" src="assets/svg/blockchain.svg" alt="blockchain"></code>
 &nbsp; -->
-<code><img height="50" src="assets/svg/cell.svg" alt="bitcoin"></code>
+<code><img height="50" src="assets/svg/cell.svg" alt="cell"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/metacell.svg" alt="bitcoin"></code>
+<code><img height="50" src="assets/svg/metacell.svg" alt="metacell"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/rubik_cube1.svg" alt="rubik-cube"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/rubik_cube2.svg" alt="rubik-cube"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/vscode.svg" alt="vscode"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/linux1.svg" alt="linux"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/unix.svg" alt="unix"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/arch_linux.svg" alt="archlinux"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/linux.svg" alt="linux"></code>
 &nbsp;
