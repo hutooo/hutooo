@@ -84,9 +84,7 @@ Here are some ideas to get you started:
 &nbsp;
 <code><img height="50" src="assets/svg/metacell.svg" alt="metacell"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/rubik_cube1.svg" alt="rubik-cube"></code>
-&nbsp;
-<code><img height="50" src="assets/svg/rubik_cube2.svg" alt="rubik-cube"></code>
+<code><img height="50" src="assets/svg/rubik_cube.svg" alt="rubik-cube"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/vscode.svg" alt="vscode"></code>
 &nbsp;
