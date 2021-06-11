@@ -74,6 +74,8 @@ Here are some ideas to get you started:
 &nbsp;
 <code><img height="50" src="assets/svg/github.svg" alt="github"></code>
 &nbsp;
+<code><img height="50" src="assets/svg/container.svg" alt="container"></code>
+&nbsp;
 <code><img height="50" src="assets/svg/bitcoin.svg" alt="bitcoin"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/blockchain.svg" alt="blockchain"></code>
