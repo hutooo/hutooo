@@ -62,9 +62,15 @@ Here are some ideas to get you started:
 &nbsp;
 <code><img height="50" src="assets/svg/javascript.svg" alt="js"></code>
 &nbsp;
+<code><img height="50" src="assets/svg/zig.svg" alt="zig"></code>
+&nbsp;
 <code><img height="50" src="assets/svg/neuralNetwork.svg" alt="nn"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/vim.svg" alt="vim"></code>
+<code><img height="50" src="assets/svg/distributed.svg" alt="distributed"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/distributed1.svg" alt="distributed"></code>
+&nbsp;
+<code><img height="50" src="assets/svg/storage.svg" alt="storage"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/matrix.svg" alt="matrix"></code>
 &nbsp;
@@ -72,8 +78,8 @@ Here are some ideas to get you started:
 &nbsp;
 <code><img height="50" src="assets/svg/bitcoin.svg" alt="bitcoin"></code>
 &nbsp;
-<!-- <code><img height="50" src="assets/svg/blockchain.svg" alt="blockchain"></code>
-&nbsp; -->
+<code><img height="50" src="assets/svg/blockchain.svg" alt="blockchain"></code>
+&nbsp;
 <code><img height="50" src="assets/svg/cell.svg" alt="cell"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/metacell.svg" alt="metacell"></code>
@@ -84,13 +90,9 @@ Here are some ideas to get you started:
 &nbsp;
 <code><img height="50" src="assets/svg/vscode.svg" alt="vscode"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/linux1.svg" alt="linux"></code>
-&nbsp;
-<code><img height="50" src="assets/svg/unix.svg" alt="unix"></code>
+<code><img height="50" src="assets/svg/vim.svg" alt="vim"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/arch_linux.svg" alt="archlinux"></code>
-&nbsp;
-<code><img height="50" src="assets/svg/linux.svg" alt="linux"></code>
 &nbsp;
 </p>
 
