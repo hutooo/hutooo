@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 &nbsp;
 <code><img height="50" src="assets/svg/distributed.svg" alt="distributed"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/storage.svg" alt="storage"></code>
+<code><img height="50" src="assets/svg/arch_linux.svg" alt="arch_linux"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/matrix.svg" alt="matrix"></code>
 &nbsp;
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 &nbsp;
 <code><img height="50" src="assets/svg/vim.svg" alt="vim"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/arch_linux.svg" alt="archlinux"></code>
+<code><img height="50" src="assets/svg/storage.svg" alt="storage"></code>
 &nbsp;
 </p>
 
