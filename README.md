@@ -68,8 +68,6 @@ Here are some ideas to get you started:
 &nbsp;
 <code><img height="50" src="assets/svg/distributed.svg" alt="distributed"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/distributed1.svg" alt="distributed"></code>
-&nbsp;
 <code><img height="50" src="assets/svg/storage.svg" alt="storage"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/matrix.svg" alt="matrix"></code>
