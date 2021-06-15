@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 * 🌱 &nbsp; I'm constantly learning about Computer Science, Mathematics, Complexity Science, Painting, and making a better cup of coffee.
 
-* ✉️ &nbsp;You can shoot me an email at ash-z01@qq.com . I'll try to respond as soon as I can.
+* ✉️ &nbsp;You can shoot me an email at ash-z@foxmail.com . I'll try to respond as soon as I can.
 
 
 ### 🎨 &nbsp; Mixed~
@@ -72,8 +72,6 @@ Here are some ideas to get you started:
 &nbsp;
 <code><img height="50" src="assets/svg/matrix.svg" alt="matrix"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/github.svg" alt="github"></code>
-&nbsp;
 <code><img height="50" src="assets/svg/container.svg" alt="container"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/bitcoin.svg" alt="bitcoin"></code>
@@ -97,6 +95,8 @@ Here are some ideas to get you started:
 ### 🍻 &nbsp; Social
 
 <p align="center">
+<code><img height="50" src="assets/svg/github.svg" alt="github"></code>
+&nbsp;
 <code><img height="50" src="assets/svg/ns.svg" alt="ns"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/ps4.svg" alt="ps"></code>
