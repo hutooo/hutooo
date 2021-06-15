@@ -1,30 +1,9 @@
-### Hi 👋~~    Welcome to [Rubik Cell Space](https://ash-z01.github.io) !! 🚀
-
 <!--
 **ash-z01/ash-z01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
----------------------------------------------------------
+<!-- ![Banner](https://github.com/ash-z01/ash-z01/assets/imgs/touhou-mini.png) -->
 
-<!-- 
-![RubikCell Banner](https://github.com/ash-z01/ash-z01.github.io/blob/master/images/chino111.png) 
-![RubikCell Banner](https://github.com/ash-z01/ash-z01/blob/main/assets/even01.jpg) 
-![RubikCell Banner](https://github.com/ash-z01/ash-z01/blob/main/assets/Kurosawa_Ruby_Holding_SICP.jpg)
--->
-
-<!-- ![RubikCell Banner](https://github.com/ash-z01/ash-z01/blob/main/assets/chino00.png) -->
-<!-- ![Banner](assets/imgs/HonkaiImpact3.webp) -->
 ![Banner](assets/imgs/touhou-lite.png)
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -39,7 +18,7 @@ Here are some ideas to get you started:
 
 * 🌱 &nbsp; I'm constantly learning about Computer Science, Mathematics, Complexity Science, Painting, and making a better cup of coffee.
 
-* ✉️ &nbsp;You can shoot me an email at ash-z@foxmail.com . I'll try to respond as soon as I can.
+* ✉️ &nbsp;You can shoot me an email at `ash-z@foxmail.com` . I'll try to respond as soon as I can.
 
 
 ### 🎨 &nbsp; Mixed~
