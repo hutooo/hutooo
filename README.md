@@ -49,8 +49,8 @@
 &nbsp;
 <code><img height="50" src="assets/svg/arch_linux.svg" alt="arch_linux"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/matrix.svg" alt="matrix"></code>
-&nbsp;
+<!-- <code><img height="50" src="assets/svg/matrix.svg" alt="matrix"></code>
+&nbsp; -->
 <code><img height="50" src="assets/svg/container.svg" alt="container"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/blockchain.svg" alt="blockchain"></code>
