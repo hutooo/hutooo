@@ -4,15 +4,11 @@
 
 <!-- ![Banner](https://github.com/ash-z01/ash-z01/assets/imgs/touhou-mini.png) -->
 
-![Banner](assets/imgs/touhou-lite.png)
+<!-- ![Banner](assets/imgs/touhou-lite.png) -->
+
+![Banner](assets/imgs/ys.jpg)
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-<!--
--  **Explore** Development :zap: | Open-Source :fire:    
--  **Hobbies** History 📖 & Math 📚 & Coffee ☕ & Complexity 🏹 & Painting 🖌️
--  **Contact** [Rubik](ash-z01@qq.com)
--->
 
 * 💡 &nbsp; I like to explore new technologies, think about interesting or whimsical questions.
 
@@ -49,8 +45,6 @@
 &nbsp;
 <code><img height="50" src="assets/svg/arch_linux.svg" alt="arch_linux"></code>
 &nbsp;
-<!-- <code><img height="50" src="assets/svg/matrix.svg" alt="matrix"></code>
-&nbsp; -->
 <code><img height="50" src="assets/svg/container.svg" alt="container"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/blockchain.svg" alt="blockchain"></code>
@@ -63,8 +57,6 @@
 &nbsp;
 <code><img height="50" src="assets/svg/game.svg" alt="game"></code>
 &nbsp;
-<!-- <code><img height="50" src="assets/svg/game1.svg" alt="game"></code>
-&nbsp; -->
 <code><img height="50" src="assets/svg/vscode.svg" alt="vscode"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/vim.svg" alt="vim"></code>
