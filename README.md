@@ -16,7 +16,7 @@
 
 * 💡 &nbsp; I like to explore new technologies, think about interesting or whimsical questions.
 
-* 🌱 &nbsp; I'm constantly learning about Computer Science, Mathematics, Complexity Science, Painting, and making a better cup of coffee.
+* 🌱 &nbsp; I'm constantly learning about Computer Science, Mathematics, Painting, and making a better cup of coffee.
 
 * ✉️ &nbsp;You can shoot me an email at `ash-z@foxmail.com` . I'll try to respond as soon as I can.
 
@@ -53,8 +53,6 @@
 &nbsp;
 <code><img height="50" src="assets/svg/container.svg" alt="container"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/bitcoin.svg" alt="bitcoin"></code>
-&nbsp;
 <code><img height="50" src="assets/svg/blockchain.svg" alt="blockchain"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/cell.svg" alt="cell"></code>
@@ -63,6 +61,10 @@
 &nbsp;
 <code><img height="50" src="assets/svg/rubik_cube.svg" alt="rubik-cube"></code>
 &nbsp;
+<code><img height="50" src="assets/svg/game.svg" alt="game"></code>
+&nbsp;
+<!-- <code><img height="50" src="assets/svg/game1.svg" alt="game"></code>
+&nbsp; -->
 <code><img height="50" src="assets/svg/vscode.svg" alt="vscode"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/vim.svg" alt="vim"></code>
