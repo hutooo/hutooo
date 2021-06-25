@@ -39,8 +39,6 @@
 &nbsp;
 <code><img height="50" src="assets/svg/zig.svg" alt="zig"></code>
 &nbsp;
-<code><img height="50" src="assets/svg/deno.svg" alt="deno"></code>
-&nbsp;
 <code><img height="50" src="assets/svg/neuralNetwork.svg" alt="nn"></code>
 &nbsp;
 <code><img height="50" src="assets/svg/distributed.svg" alt="distributed"></code>
