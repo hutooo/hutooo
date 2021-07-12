@@ -6,7 +6,7 @@
 
 <!-- ![Banner](assets/imgs/touhou-lite.png) -->
 
-![Banner](assets/imgs/ys.jpg)
+![Banner](assets/imgs/BreathOfTheWild00.jpg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
