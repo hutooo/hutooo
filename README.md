@@ -111,7 +111,7 @@
 <img src="https://img.shields.io/badge/XYZ&ndash;Meow-1877F2?style=flat-square&&color=green&logo=WeChat&logoColor=white"/></a>
 
 <a href="https://space.bilibili.com/123004091/">
-<img src="https://img.shields.io/badge/Rubik-E4405F?style=flat-square&logo=Bilibili&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/芝士z喵-E4405F?style=flat-square&logo=Bilibili&logoColor=white"/></a>
 
 </p>
 
@@ -122,4 +122,4 @@
 </em>
 
 ---
-⭐️ From [Rubik](https://github.com/ash-z01)
+⭐️ From [XYZ](https://github.com/ash-z01)
