@@ -23,8 +23,6 @@
 <p align="center">
 <code><img height="36" src="assets/svg/firefox.svg" alt="firefox"></code>
 &nbsp;
-<code><img height="36" src="assets/svg/scheme.svg" alt="scheme"></code>
-&nbsp;
 <code><img height="36" src="assets/svg/lisp.svg" alt="lisp"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/haskell.svg" alt="haskell"></code>
@@ -59,7 +57,7 @@
 &nbsp;
 <code><img height="36" src="assets/svg/vscode.svg" alt="vscode"></code>
 &nbsp;
-<code><img height="36" src="assets/svg/vim.svg" alt="vim"></code>
+<code><img height="36" src="assets/svg/neovim.svg" alt="neovim"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/storage.svg" alt="storage"></code>
 &nbsp;
