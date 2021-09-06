@@ -70,6 +70,8 @@
 &nbsp;
 <code><img height="36" src="assets/svg/ns.svg" alt="ns"></code>
 &nbsp;
+<code><img height="36" src="assets/svg/xbox.svg" alt="xbox"></code>
+&nbsp;
 <code><img height="36" src="assets/svg/ps4.svg" alt="ps"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/bilibili.svg" alt="bilibili"></code>
