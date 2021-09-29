@@ -4,9 +4,12 @@
 
 <!-- ![Banner](https://github.com/ash-z01/ash-z01/assets/imgs/touhou-mini.png) -->
 
-<!-- ![Banner](assets/imgs/touhou-lite.png) -->
+<!-- ![Banner](assets/imgs/nintendo-game-ash-evolution.jpg) -->
+![Banner](assets/imgs/nintendo-game-ash-evolution-banner.jpg)
+<!-- ![Banner](assets/imgs/pixel-art.jpg) -->
 
-![Banner](assets/imgs/BreathOfTheWild00.jpg)
+
+<!-- ![Banner](assets/imgs/BreathOfTheWild00.jpg) -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -21,6 +24,8 @@
 <!-- ### 🛠😜 &nbsp; I use it~ -->
 
 <p align="center">
+<code><img height="36" src="assets/svg/pacman-ghost.svg" alt="pacman-ghost"></code>
+&nbsp;
 <code><img height="36" src="assets/svg/firefox.svg" alt="firefox"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/lisp.svg" alt="lisp"></code>
@@ -33,11 +38,15 @@
 &nbsp;
 <code><img height="36" src="assets/svg/lua.svg" alt="lua"></code>
 &nbsp;
-<code><img height="36" src="assets/svg/javascript.svg" alt="js"></code>
+<code><img height="36" src="assets/svg/rescript.svg" alt="rescript"></code>
 &nbsp;
-<code><img height="36" src="assets/svg/zig.svg" alt="zig"></code>
+<code><img height="36" src="assets/svg/painting.svg" alt="painting"></code>
 &nbsp;
-<code><img height="36" src="assets/svg/neuralNetwork.svg" alt="nn"></code>
+<code><img height="36" src="assets/svg/pixel.svg" alt="pixel"></code>
+&nbsp;
+<code><img height="36" src="assets/svg/pokemon.svg" alt="pokemon"></code>
+&nbsp;
+<code><img height="36" src="assets/svg/rubik-cube.svg" alt="rubik-cube"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/distributed.svg" alt="distributed"></code>
 &nbsp;
@@ -46,12 +55,6 @@
 <code><img height="36" src="assets/svg/container.svg" alt="container"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/blockchain.svg" alt="blockchain"></code>
-&nbsp;
-<code><img height="36" src="assets/svg/cell.svg" alt="cell"></code>
-&nbsp;
-<code><img height="36" src="assets/svg/metacell.svg" alt="metacell"></code>
-&nbsp;
-<code><img height="36" src="assets/svg/rubik_cube.svg" alt="rubik-cube"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/game.svg" alt="game"></code>
 &nbsp;
@@ -114,6 +117,8 @@
 <img src="https://img.shields.io/badge/芝士z喵-E4405F?style=flat-square&logo=Bilibili&logoColor=white"/></a>
 
 </p>
+
+![Banner](assets/imgs/ash-and-pikachu-banner.jpg)
 
 <em>
     <b>I like to meet interesting friends.</b>
