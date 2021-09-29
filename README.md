@@ -2,13 +2,9 @@
 **ash-z01/ash-z01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<!-- ![Banner](https://github.com/ash-z01/ash-z01/assets/imgs/touhou-mini.png) -->
-
 <!-- ![Banner](assets/imgs/nintendo-game-ash-evolution.jpg) -->
 ![Banner](assets/imgs/nintendo-game-ash-evolution-banner.jpg)
 <!-- ![Banner](assets/imgs/pixel-art.jpg) -->
-
-
 <!-- ![Banner](assets/imgs/BreathOfTheWild00.jpg) -->
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -118,8 +114,6 @@
 
 </p>
 
-![Banner](assets/imgs/ash-and-pikachu-banner.jpg)
-
 <em>
     <b>I like to meet interesting friends.</b>
     <b>so if you want to say hello, </b>
@@ -127,4 +121,4 @@
 </em>
 
 ---
-⭐️ From [XYZ](https://github.com/ash-z01)
+⭐️ From [XYZ](https://github.com/ash-z01)  <img height="16" src="assets/imgs/ash-and-pikachu-footer.jpg"/>
