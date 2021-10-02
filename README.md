@@ -11,7 +11,7 @@
 
 * 💡 &nbsp; I like to explore new technologies, think about interesting or whimsical questions.
 
-* 🌱 &nbsp; I'm constantly learning about Computer Science, Mathematics, Painting, and making a better cup of coffee.
+* 🌱 &nbsp; I'm constantly learning about Computer Science, Mathematics, Pixel-Art, Painting, and making a better cup of coffee.
 
 * ✉️ &nbsp;You can shoot me an email at `ash-z@foxmail.com` . I'll try to respond as soon as I can.
 
