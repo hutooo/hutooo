@@ -3,9 +3,10 @@
 -->
 
 <!-- ![Banner](assets/imgs/nintendo-game-ash-evolution.jpg) -->
-![Banner](assets/imgs/nintendo-game-ash-evolution-banner.jpg)
+<!-- ![Banner](assets/imgs/nintendo-game-ash-evolution-banner.jpg) -->
 <!-- ![Banner](assets/imgs/pixel-art.jpg) -->
 <!-- ![Banner](assets/imgs/BreathOfTheWild00.jpg) -->
+![Banner](assets/imgs/nintendo-game-ash-banner.jpg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
