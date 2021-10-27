@@ -21,9 +21,9 @@
 <!-- ### 🛠😜 &nbsp; I use it~ -->
 
 <p align="center">
-<code><img height="36" src="assets/svg/pacman-ghost.svg" alt="pacman-ghost"></code>
+<code><img height="36" src="assets/svg/lambda.svg" alt="lambda"></code>
 &nbsp;
-<code><img height="36" src="assets/svg/firefox.svg" alt="firefox"></code>
+<code><img height="36" src="assets/svg/pacman-ghost.svg" alt="pacman-ghost"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/lisp.svg" alt="lisp"></code>
 &nbsp;
@@ -48,6 +48,8 @@
 <code><img height="36" src="assets/svg/distributed.svg" alt="distributed"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/arch_linux.svg" alt="arch_linux"></code>
+&nbsp;
+<code><img height="36" src="assets/svg/firefox.svg" alt="firefox"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/container.svg" alt="container"></code>
 &nbsp;
