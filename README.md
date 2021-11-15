@@ -9,13 +9,13 @@
 ## 🍻 &nbsp;Cheers~
 
 <em>
-<b> 👀 &nbsp; I’m a magician disguised as an engineer.</b>
+
+<b> 💡 &nbsp; I’m a magician disguised as an engineer. Like to explore new technologies, think about interesting or whimsical questions.</b>
 
 <b> 🌱 &nbsp; I'm constantly refining magic in Computer Science, Mathematics, Creativity, Games and Coffee.</b>
 
-<b> 💡 &nbsp; I like to explore new technologies, think about interesting or whimsical questions.</b>
-
 <b> 💬 &nbsp; So, be free to ask me about anything.</b>
+
 </em>
 
 ## 👻 &nbsp; Mix~
