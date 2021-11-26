@@ -1,5 +1,5 @@
 <!--
-**ash-z01/ash-z01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zoe-oi/zoe-oi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <!-- ![Banner](assets/imgs/BreathOfTheWild00.jpg) -->
@@ -52,9 +52,9 @@
 
 <p align="center">
     
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ash-z01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zoe-oi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs" />
 
-<img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ash-z01&layout=compact&hide=html,css&theme=onedark" />
+<img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zoe-oi&layout=compact&hide=html,css&theme=onedark" />
 
 </p> -->
 
@@ -62,7 +62,7 @@
 
 <p align="center">
 
-<a href="https://github.com/ash-z01">
+<a href="https://github.com/zoe-oi">
 <img src="https://img.shields.io/badge/-GitHub-3423A6?style=flat-square&color=black&logo=GitHub&logoColor=white"/></a>
 <a href="ash-z01@qq.com">
 <img src="https://img.shields.io/badge/-ash&ndash;z01@qq.com-1769FF?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -79,4 +79,4 @@
 </em>
 
 ---
-⭐️ From [XYZ](https://github.com/ash-z01)  <img height="16" src="assets/imgs/ash-and-pikachu-footer.jpg"/>
+⭐️ From [zoe](https://github.com/zoe-oi)  <img height="16" src="assets/imgs/ash-and-pikachu-footer.jpg"/>
