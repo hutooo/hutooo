@@ -3,10 +3,8 @@
 -->
 
 <!-- ![Banner](assets/imgs/BreathOfTheWild00.jpg) -->
-<!-- ![Banner](assets/imgs/nintendo-game-ash-banner.jpg) -->
-![Banner](assets/imgs/oniso-fix.jpg)
-<!-- ![Banner](assets/imgs/Oxygen-Not-Included-2.jpg) -->
-<!-- ![Banner](assets/imgs/Oxygen-Not-Included-DLC-Teaser-Klei-Entertainment-01.webp) -->
+![Banner](assets/imgs/nintendo-game-ash-banner.jpg)
+<!-- ![Banner](assets/imgs/oniso-fix.jpg) -->
 
 ## 🍻 &nbsp;Cheers~
 
@@ -14,7 +12,7 @@
 
 <b> 💡 &nbsp; I’m a magician disguised as an engineer. Like to explore new technologies, think about interesting or whimsical questions.</b>
 
-<b> 🌱 &nbsp; I'm constantly refining magic in Computer Science, Mathematics, Creativity, Games and Coffee.</b>
+<b> 🌱 &nbsp; I'm constantly refining magic in Computer Science, Mathematics, Oxygen-Not-Included and Coffee.</b>
 
 <b> 💬 &nbsp; So, be free to ask me about anything.</b>
 
@@ -29,6 +27,8 @@
 <code><img height="36" src="assets/svg/lisp.svg" alt="lisp"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/haskell.svg" alt="haskell"></code>
+&nbsp;
+<code><img height="36" src="assets/svg/elixir.svg" alt="elixir"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/ferris.svg" alt="ferris"></code>
 &nbsp;
