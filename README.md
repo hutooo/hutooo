@@ -1,10 +1,9 @@
 <!--
-**zoe-oi/zoe-oi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zoe-oi/zoe-oi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 🌱
 -->
 
 <!-- ![Banner](assets/imgs/BreathOfTheWild00.jpg) -->
 ![Banner](assets/imgs/nintendo-game-ash-banner.jpg)
-<!-- ![Banner](assets/imgs/oniso-fix.jpg) -->
 
 ## 🍻 &nbsp;Cheers~
 
@@ -12,9 +11,11 @@
 
 <b> 💡 &nbsp; I’m a magician disguised as an engineer. Like to explore new technologies, think about interesting or whimsical questions.</b>
 
-<b> 🌱 &nbsp; I'm constantly refining magic in Computer Science, Mathematics, Oxygen-Not-Included and Coffee.</b>
+<b> ✨ &nbsp; I'm constantly refining magic in Computer Science, Mathematics, and Coffee.</b>
 
-<b> 💬 &nbsp; So, be free to ask me about anything.</b>
+<b> 🌀 &nbsp; I'm also a Pokémon Trainer. Chance a Pokémon battle!!~</b>
+
+<b> 🚀 &nbsp; Finally, I'm interested in Oxygen-Not-Included. I recommend you try it out~</b>
 
 </em>
 
