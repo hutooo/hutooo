@@ -29,8 +29,6 @@
 &nbsp;
 <code><img height="36" src="assets/svg/haskell.svg" alt="haskell"></code>
 &nbsp;
-<code><img height="36" src="assets/svg/elixir.svg" alt="elixir"></code>
-&nbsp;
 <code><img height="36" src="assets/svg/ferris.svg" alt="ferris"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/painting.svg" alt="painting"></code>
