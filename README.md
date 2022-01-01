@@ -15,7 +15,7 @@
 
 <b> 🌀 &nbsp; I'm also a Pokémon Trainer. Chance a Pokémon battle!!~</b>
 
-<b> 🚀 &nbsp; Finally, I'm interested in Oxygen-Not-Included. I recommend you try it out~</b>
+<b> 🚀 &nbsp; Finally, I'm interested in Oxygen-Not-Included and Animal-Crossing. I recommend you try it out~</b>
 
 </em>
 
