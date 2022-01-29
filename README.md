@@ -1,5 +1,5 @@
 <!--
-**zoe-oi/zoe-oi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 🌱
+**YY-Meow/YY-Meow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 🌱
 -->
 
 <!-- ![Banner](assets/imgs/BreathOfTheWild00.jpg) -->
@@ -64,14 +64,14 @@
 
 <p align="center">
 
-<a href="https://github.com/zoe-oi">
+<a href="https://github.com/YY-Meow">
 <img src="https://img.shields.io/badge/-GitHub-3423A6?style=flat-square&color=black&logo=GitHub&logoColor=white"/></a>
 <a href="ash-z01@qq.com">
 <img src="https://img.shields.io/badge/-ash&ndash;z01@qq.com-1769FF?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="E-Meow">
 <img src="https://img.shields.io/badge/E&ndash;Meow-D14836?style=flat-square&logo=Nintendo-Switch&logoColor=white"/></a>
 <a href="https://space.bilibili.com/123004091/">
-<img src="https://img.shields.io/badge/芝士z喵-E4405F?style=flat-square&logo=Bilibili&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/阴阳Meow-E4405F?style=flat-square&logo=Bilibili&logoColor=white"/></a>
 
 </p> -->
 
@@ -81,4 +81,4 @@
 </em>
 
 ---
-⭐️ From [zoe](https://github.com/zoe-oi)  <img height="16" src="assets/imgs/ash-and-pikachu-footer.jpg"/>
+⭐️ From [YY-Meow](https://github.com/YY-Meow)  <img height="16" src="assets/imgs/ash-and-pikachu-footer.jpg"/>
