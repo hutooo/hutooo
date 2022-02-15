@@ -16,7 +16,7 @@
 
 <b> 🌀 &nbsp; I'm also a Pokémon Trainer. Chance a Pokémon battle!!~</b>
 
-<b> 🎵 &nbsp; I'm still learning synthesizer and bamboo flute~</b>
+<b> 🎵 &nbsp; I'm still learning synthesizer, ocarina and Blues Harp~</b>
 
 <b> 🚀 &nbsp; Finally, I'm interested in Oxygen-Not-Included and Celeste. I recommend you try it out~</b>
 
