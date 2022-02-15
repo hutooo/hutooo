@@ -12,7 +12,7 @@
 
 <b> 💡 &nbsp; I’m a magician disguised as an engineer. Like to explore new technologies, think about interesting or whimsical questions.</b>
 
-<b> ✨ &nbsp; I'm constantly refining magic in Computer Science, Mathematics, and Coffee.</b>
+<b> ✨ &nbsp; I'm constantly refining magic in Computer Science, Mathematics, Music and Coffee.</b>
 
 <b> 🌀 &nbsp; I'm also a Pokémon Trainer. Chance a Pokémon battle!!~</b>
 
