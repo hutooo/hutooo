@@ -30,6 +30,10 @@
 &nbsp;
 <code><img height="36" src="assets/svg/lisp.svg" alt="lisp"></code>
 &nbsp;
+<code><img height="36" src="assets/svg/sml.svg" alt="sml"></code>
+&nbsp;
+<code><img height="36" src="assets/svg/music.svg" alt="music"></code>
+&nbsp;
 <code><img height="36" src="assets/svg/haskell.svg" alt="haskell"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/ferris.svg" alt="ferris"></code>
