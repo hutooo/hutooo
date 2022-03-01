@@ -26,17 +26,11 @@
 <!-- ### 🛠😜 &nbsp; I use it~ -->
 
 <p align="center">
+<code><img height="36" src="assets/svg/ferris-builder.svg" alt="ferris"></code>
+&nbsp;
 <code><img height="36" src="assets/svg/lambda.svg" alt="lambda"></code>
 &nbsp;
-<code><img height="36" src="assets/svg/lisp.svg" alt="lisp"></code>
-&nbsp;
-<code><img height="36" src="assets/svg/sml.svg" alt="sml"></code>
-&nbsp;
 <code><img height="36" src="assets/svg/music.svg" alt="music"></code>
-&nbsp;
-<code><img height="36" src="assets/svg/haskell.svg" alt="haskell"></code>
-&nbsp;
-<code><img height="36" src="assets/svg/ferris.svg" alt="ferris"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/painting.svg" alt="painting"></code>
 &nbsp;
@@ -44,10 +38,10 @@
 &nbsp;
 <code><img height="36" src="assets/svg/rubik-cube.svg" alt="rubik-cube"></code>
 &nbsp;
-<code><img height="36" src="assets/svg/arch_linux.svg" alt="arch_linux"></code>
+<!-- <code><img height="36" src="assets/svg/arch_linux.svg" alt="arch_linux"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/container.svg" alt="container"></code>
-&nbsp;
+&nbsp; -->
 <code><img height="36" src="assets/svg/neural-network.svg" alt="nn"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/blockchain.svg" alt="blockchain"></code>
@@ -60,9 +54,9 @@
 
 <p align="center">
     
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zoe-oi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YY-Meow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs" />
 
-<img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zoe-oi&layout=compact&hide=html,css&theme=onedark" />
+<img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YY-Meow&layout=compact&hide=html,css&theme=onedark" />
 
 </p> -->
 
