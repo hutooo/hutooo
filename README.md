@@ -10,13 +10,13 @@
 
 <em>
 
-<b> 💡 &nbsp; I’m a magician disguised as an engineer. Like to explore new technologies, think about interesting or whimsical questions.</b>
+<b> 💡 &nbsp; I’m a magician who like to explore new technologies, think about interesting or whimsical questions.</b>
 
-<b> ✨ &nbsp; I'm constantly refining magic in Computer Science, Mathematics, Music and Coffee.</b>
+<b> ✨ &nbsp; I'm constantly extract magic from Computer Science, Mathematics, Music and Coffee.</b>
 
 <b> 🌀 &nbsp; I'm also a Pokémon Trainer. Chance a Pokémon battle!!~</b>
 
-<b> 🎵 &nbsp; I'm still learning electronic organ, ocarina and Blues Harp~</b>
+<b> 🎵 &nbsp; I'm still learning MIDI keyboard, Blues Harp & Sky-Studio~</b>
 
 <b> 🚀 &nbsp; Finally, I'm interested in Oxygen-Not-Included and Celeste. I recommend you try it out~</b>
 
@@ -26,7 +26,7 @@
 <!-- ### 🛠😜 &nbsp; I use it~ -->
 
 <p align="center">
-<code><img height="36" src="assets/svg/ferris-builder.svg" alt="ferris"></code>
+<code><img height="48" src="assets/svg/ferris-builder.svg" alt="ferris"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/lambda.svg" alt="lambda"></code>
 &nbsp;
@@ -43,8 +43,6 @@
 <code><img height="36" src="assets/svg/container.svg" alt="container"></code>
 &nbsp; -->
 <code><img height="36" src="assets/svg/neural-network.svg" alt="nn"></code>
-&nbsp;
-<code><img height="36" src="assets/svg/blockchain.svg" alt="blockchain"></code>
 &nbsp;
 <code><img height="36" src="assets/svg/ns.svg" alt="ns"></code>
 &nbsp;
