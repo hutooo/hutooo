@@ -18,7 +18,7 @@
 
 <b> 🎵 &nbsp; I'm still learning MIDI keyboard, Blues Harp & Sky-Studio~</b>
 
-<b> 🚀 &nbsp; Finally, I'm interested in Oxygen-Not-Included and Celeste. I recommend you try it out~</b>
+<b> 🚀 &nbsp; Finally, I'm interested in Oxygen-Not-Included, Don't-Starve-Together and Celeste. I recommend you try it out~</b>
 
 </em>
 
