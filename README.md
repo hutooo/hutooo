@@ -1,5 +1,5 @@
 <!--
-**YY-Meow/YY-Meow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 🌱
+**Hutooo/Hutooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 🌱
 -->
 
 <!-- ![Banner](assets/imgs/BreathOfTheWild00.jpg) -->
@@ -12,7 +12,7 @@
 
 <b> 💡 &nbsp; I’m a magician who like to explore new technologies, think about interesting or whimsical questions.</b>
 
-<b> ✨ &nbsp; I'm constantly extract magic from Computer Science, Mathematics, Music and Coffee.</b>
+<b> ✨ &nbsp; I'm constantly extract magic from Computer Science, Mathematics and Philosophy.</b>
 
 <b> 🌀 &nbsp; I'm also a Pokémon Trainer. Chance a Pokémon battle!!~</b>
 
@@ -62,7 +62,7 @@
 
 <p align="center">
 
-<a href="https://github.com/YY-Meow">
+<a href="https://github.com/Hutooo">
 <img src="https://img.shields.io/badge/-GitHub-3423A6?style=flat-square&color=black&logo=GitHub&logoColor=white"/></a>
 <a href="ash-z01@qq.com">
 <img src="https://img.shields.io/badge/-ash&ndash;z01@qq.com-1769FF?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -79,4 +79,4 @@
 </em>
 
 ---
-⭐️ From [YY-Meow](https://github.com/YY-Meow)  <img height="16" src="assets/imgs/ash-and-pikachu-footer.jpg"/>
+⭐️ From [Hutooo](https://github.com/hutooo)  <img height="16" src="assets/imgs/ash-and-pikachu-footer.jpg"/>
