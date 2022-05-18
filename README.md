@@ -2,6 +2,16 @@
 **Hutooo/Hutooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 🌱
 -->
 
+<link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
+<section>
+    <!-- Copyright Nintendo -->
+    <i class="nes-ash"></i>
+    <i class="nes-pokeball"></i>
+    <i class="nes-charmander"></i>
+    <i class="nes-bulbasaur"></i>
+    <i class="nes-squirtle"></i>
+</section>
+
 <!-- ![Banner](assets/imgs/BreathOfTheWild00.jpg) -->
 ![Banner](assets/imgs/nintendo-game-ash-banner.jpg)
 <!-- ![Banner](assets/imgs/dst00.jpg) -->
@@ -72,6 +82,8 @@
 <img src="https://img.shields.io/badge/阴阳Meow-E4405F?style=flat-square&logo=Bilibili&logoColor=white"/></a>
 
 </p> -->
+
+
 
 <em>
     <b>You can find how to contact me in the sidebar. </b>
